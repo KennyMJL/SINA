@@ -15,14 +15,14 @@
 
     $ cd SINA
 
-3. Run the following command to create a dedicated conda environment for this project, called "fire_capstone":
+3. Run the following command to create a dedicated conda environment for this project, called "SINA":
 
     $ conda env create -f SINA_env.yml
 
 ### Using the Conda Environment
 1. Open a terminal or Anaconda prompt (on Windows) and navigate to the repo directory, and activate the conda enviornment by running:
 
-    $ conda activate fire_capstone
+    $ conda activate SINA
 2. With the terminal or cmd window that you used to run the last command, you should now be able to run any __python scripts__ in this repo by running:
 
     $ python \<path to script\>
